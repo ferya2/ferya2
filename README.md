@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferya2&label=Profile%20views&color=0e75b6&style=flat" alt="ferya2" /> </p>
 
-- 🌱 I’m currently learning **Flutter,Kotlin**
+- 🌱 I’m currently learning **Flutter,Laravel**
 
 - 📫 How to reach me **adefery221@gmail.com**
 
