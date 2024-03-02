@@ -22,4 +22,3 @@
 
 <img src="https://raw.githubusercontent.com/ferya2/ferya2/output/snake.svg" alt="Snake animation" />
 
-###
