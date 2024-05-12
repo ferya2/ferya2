@@ -11,10 +11,9 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ferya2&show_icons=true&theme=radical" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/fery.a2__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fery.a2__" height="30" width="40" /></a>
-</p>
+### Connect with me 
+[![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](@peii09) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fery.a2__/)
 
 
 # 💻 Tech Stack:
