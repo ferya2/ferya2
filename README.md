@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ade Fery Angriawan</h1>
-<h3 align="center">📝Informatics Engineering Student</h3>
+<h3 align="center">📝Informatics Engineering Student at Universitas Teknologi Bandung</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferya2&label=Profile%20views&color=0e75b6&style=flat" alt="ferya2" /> </p>
+[![](https://visitcount.itsvg.in/api?id=ferya2&icon=2&color=1)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **Flutter,Laravel**
 
@@ -24,7 +24,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ferya2&icon=2&color=1)](https://visitcount.itsvg.in)
+
 
 
 
