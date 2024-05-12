@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ferya2&show_icons=true&theme=radical" /> </p>
 
 ### Connect with me 
-[![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](@peii09) 
+[![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/459022623725191171) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fery.a2__/)
 
 
