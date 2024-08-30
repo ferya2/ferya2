@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=ferya2&icon=2&color=1)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **Flutter,Laravel**
+- 🌱 I’m currently learning **Flutter,Laravel,React Native**
 
 - 📫 How to reach me **adefery221@gmail.com**
 
