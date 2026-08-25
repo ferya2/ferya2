@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ade Fery Angriawan</h1>
-<h3 align="center">Fullstack Mobile Developer &nbsp;|&nbsp; Cyber Security Red Team · Bug Hunter</h3>
+<h3 align="center">Fullstack Web &amp; Mobile Developer &nbsp;|&nbsp; Cyber Security Red Team · Bug Hunter</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ferya2/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,6 +17,7 @@
 ## 👨‍💻 About Me
 
 - 📱 Mobile developer (**Flutter**) dengan **2+ tahun pengalaman** membangun aplikasi Android & iOS — dari integrasi payment gateway sampai rilis ke Play Store & App Store.
+- 🌐 **Web developer** — membangun aplikasi full-stack: frontend **React / Next.js / Vue.js** & backend **Go (Fiber) / Node.js / Laravel**.
 - 🛡️ **Cyber Security Red Team & Bug Hunter** — penetration testing, threat analysis, dan mencari celah keamanan. Membangun aplikasi yang **aman secara desain**, bukan sekadar berjalan.
 - 🎓 Alumnus **Teknik Informatika — Universitas Teknologi Bandung**.
 - 🌏 Bandung, Jawa Barat, Indonesia.
@@ -76,12 +77,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ferya2&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferya2&layout=compact&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ferya2&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferya2&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferya2&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ferya2&theme=radical&hide_border=true" />
 </p>
 
 ---
