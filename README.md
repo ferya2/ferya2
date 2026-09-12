@@ -16,9 +16,10 @@
 
 ## 👨‍💻 About Me
 
-- 📱 Mobile developer (**Flutter**) dengan **2+ tahun pengalaman** membangun aplikasi Android & iOS — dari integrasi payment gateway sampai rilis ke Play Store & App Store.
+- 💼 **Software Engineer @ INPAM TEKNO** — mobile developer utama (**Flutter, Java, Kotlin**) dengan **MVVM & Clean Architecture**, backend **Golang**, dan alur **Git + CI/CD**. Saat ini mengerjakan **ERP PDAM** sambil meng-handle **10+ side project** aplikasi.
+- 📱 Mobile developer dengan **2+ tahun pengalaman** membangun aplikasi Android & iOS — dari integrasi payment gateway (**DOKU**), realtime data (**Supabase**) & **Firebase**, sampai rilis ke Play Store & App Store.
 - 🌐 **Web developer** — membangun aplikasi full-stack: frontend **React / Next.js / Vue.js** & backend **Go (Fiber) / Node.js / Laravel**.
-- 🛡️ **Cyber Security Red Team & Bug Hunter** — penetration testing, threat analysis, dan mencari celah keamanan. Membangun aplikasi yang **aman secara desain**, bukan sekadar berjalan.
+- 🛡️ **Cyber Security Red Team & Bug Hunter** — penetration testing & threat analysis, menerapkan prinsip **secure-by-design** untuk meminimalkan celah keamanan.
 - 🎓 Alumnus **Teknik Informatika — Universitas Teknologi Bandung**.
 - 🌏 Bandung, Jawa Barat, Indonesia.
 - 📫 Reach me: **adefery221@gmail.com**
@@ -30,7 +31,7 @@
 
 **Mobile**
 <br>
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 **Frontend**
 <br>
@@ -38,11 +39,11 @@
 
 **Backend & API**
 <br>
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Fiber](https://img.shields.io/badge/Fiber-000000?style=for-the-badge&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Fiber](https://img.shields.io/badge/Fiber-000000?style=for-the-badge&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Database & DevOps**
 <br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Security / Red Team**
 <br>
@@ -55,11 +56,13 @@
 | Project | Stack | Deskripsi |
 |---|---|---|
 | **HRIS — Integrated HR System** | Go (Fiber) · React · MySQL · Flutter | Sistem HRD multi-tenant: dashboard backoffice, API, landing page, & app absensi. RBAC dinamis, approval engine, absensi geofence. |
-| **GoCaz EV Charging** | Flutter · DOKU · MVVM | Aplikasi EV charging (iOS & Android), rilis ke Play Store & App Store. |
+| **GoCaz EV Charging** | Flutter · DOKU · Supabase · MVVM | Aplikasi EV charging mobil & motor (iOS & Android), dukung mesin OCPP/non-OCPP, rilis ke Play Store & App Store. |
+| **WalletLink — E-Wallet** | Flutter · Supabase · Firebase · PPOB | Dompet digital: top up, transfer, withdrawal, e-money, & pembayaran PPOB dengan notifikasi realtime. |
+| **PDAMLink Mobile** | Flutter · Clean Architecture · Supabase · Firebase | App pelanggan PDAM: bayar tagihan air, QR scan, monitoring pemakaian, & pencatatan meter berbasis lokasi. |
+| **Parking App — Smart Parking** | Flutter · MVVM · Supabase · SQLite · OCR | Smart parking: entry/exit gate & on-street, OCR plat nomor, pembayaran QR/prepaid, tiket digital. |
 | **HealthBridge** | Flutter · Gemini AI | Aplikasi kesehatan mental berbasis AI dengan konsultasi & rekomendasi. |
 | **QBILLS — Point of Sales** | Flutter · REST API · AI | Aplikasi kasir/POS untuk UMKM dengan fitur AI & payment gateway. |
 | [**Music Player (Spotify UI)**](https://github.com/ferya2/project_musicplayer) | Flutter | Clone antarmuka Spotify. |
-| [**Cafe App**](https://github.com/ferya2/cafe_app) | Flutter | Slicing UI aplikasi food delivery. |
 
 ---
 
